@@ -1,0 +1,10 @@
+C:\Users\aviedb\source\repos\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\aviedb\source\repos\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\aviedb\source\repos\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\aviedb\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csprojAssemblyReference.cache
+C:\Users\aviedb\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\aviedb\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\aviedb\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\aviedb\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\aviedb\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+C:\Users\aviedb\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form_1061_1.resources
